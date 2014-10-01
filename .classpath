@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Desktop/lib/plugins/BOSEconomy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Desktop/lib/plugins/CreeperHeal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Desktop/lib/plugins/Essentials.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Desktop/lib/plugins/Heroes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Desktop/lib/plugins/iConomy5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Desktop/lib/plugins/iConomy6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Desktop/lib/plugins/MobArena-v0.94.4.52.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Desktop/lib/plugins/PermissionsBukkit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Desktop/lib/plugins/PermissionsEx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Desktop/lib/plugins/Showcase0.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Desktop/lib/plugins/Towny.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Desktop/lib/plugins/Towny_Advanced.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Desktop/lib/plugins/WorldEdit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Desktop/lib/plugins/WorldGuard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Downloads/bukkit-1.7.10-R0.1-20140710.000649-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Downloads/spigot (14).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Downloads/Vault-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Downloads/bPermissions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zachary/Downloads/BountifulUpdate (1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
